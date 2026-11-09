@@ -1,19 +1,5 @@
 <div align="center">
 
-```text
-        o
-     °      O                 _.-'|
-       o               __.-''`   _|
-            ___..---''`    ____.' |        __
-        .-''    ,   ,   ,   ,  ``-._    .-'  `.
-      <( @ )   ) ) ) ) ) ) ) )      >==<      :
-        `-.__   '   '   '   '   __.-'   `-.__.'
-             ``--..____...--''`-._
-                                  `-._|
-   ~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~ ~~~~~~
-        ~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~
-```
-
 **I build LLM agents, and the environments that prove whether they work.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darshvn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshvn)
