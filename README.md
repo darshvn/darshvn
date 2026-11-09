@@ -1,18 +1,42 @@
-## Darshan Patil
+<div align="center">
 
-AI engineer in Pune. I build LLM agents that do real work inside production software, and the evaluations that tell you whether they actually did it.
+```
+██████╗  █████╗ ██████╗ ███████╗██╗  ██╗██╗   ██╗███╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██║   ██║████╗  ██║
+██║  ██║███████║██████╔╝███████╗███████║██║   ██║██╔██╗ ██║
+██║  ██║██╔══██║██╔══██╗╚════██║██╔══██║╚██╗ ██╔╝██║╚██╗██║
+██████╔╝██║  ██║██║  ██║███████║██║  ██║ ╚████╔╝ ██║ ╚████║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═══╝
+```
 
-**Now:** AI Engineer at Fossible Works, building [HydraAI](https://zimplify.tech/hydra), an agent that lives inside ERPNext and builds forms, reports and workflows from a plain-English request.
-- LangGraph agent with plan / act modes and human approval before any write, running under the user's own role permissions
-- Multi-tenant LLMOps: a LiteLLM gateway with per-tenant spend and rate limits, bring-your-own model keys, and OpenTelemetry tracing into Arize Phoenix
-- An end-to-end eval suite on Inspect AI that grades what ends up on the site, not what the agent says it did. We pick production models with it.
-- [Custom Migrator](https://zimplify.tech/custom-migrator): ERPNext customizations shipped as config-as-code through GitHub pull requests
+**I build LLM agents, and the environments that prove whether they work.**
 
-**Before that:**
-- **Abundant AI**: built RL environments and benchmark tasks that frontier labs use to post-train and evaluate coding agents. I turned real bugs in open-source Python libraries into SWE-bench-style tasks and hardened verifiers against reward hacking.
-- **Google Summer of Code 2025, OpenAstronomy**: added a three-temperature electronic non-equilibrium model to [RADIS](https://github.com/radis/radis), released in radis 0.17.1 ([project](https://summerofcode.withgoogle.com/archive/2025/projects/P7UQlBwc) · [PR](https://github.com/radis/radis/pull/842) · [write-up](https://medium.com/@darshvn/gsoc25-openastronomy-final-report-b76e4f0ea2e3)). I'm the #6 all-time contributor to RADIS.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-darshvn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshvn)
+[![Medium](https://img.shields.io/badge/Medium-@darshvn-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@darshvn)
+[![GSoC](https://img.shields.io/badge/GSoC'25-OpenAstronomy-F9AB00?style=flat-square&logo=google&logoColor=white)](https://summerofcode.withgoogle.com/archive/2025/projects/P7UQlBwc)
+[![Email](https://img.shields.io/badge/Email-darshanpatil15105-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:darshanpatil15105@gmail.com)
 
-**Stack:** Python, TypeScript, LangGraph, LangChain, LiteLLM, MCP, Inspect AI, FastAPI, React, PostgreSQL, Redis, Docker, AWS
+</div>
 
-**Open to** AI engineering, agent evaluation and RL-environment roles, remote or in India.
-[LinkedIn](https://linkedin.com/in/darshvn) · darshanpatil15105@gmail.com
+```
+    ┌─────────┐      ┌─────────┐      ┌─────────┐      ┌──────────┐
+    │  task   │ ───▶ │  agent  │ ───▶ │  tools  │ ───▶ │ verifier │
+    └─────────┘      └─────────┘      └─────────┘      └────┬─────┘
+         ▲                                                  │
+         └───────────────── reward / eval ◀─────────────────┘
+
+    the loop I spend my days on: build the agent, then build the thing that grades it.
+```
+
+**Now** · agents inside ERPNext at [zimplify.tech](https://zimplify.tech/hydra)
+**Before** · RL environments for coding agents · physics in [RADIS](https://github.com/radis/radis)
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,ts,react,fastapi,postgres,redis,docker,aws,linux,git&perline=10" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=darshvn&hide_border=true&theme=transparent" />
+
+</div>
