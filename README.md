@@ -27,4 +27,8 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@darshvn)
 [![zimplify.tech](https://img.shields.io/badge/zimplify.tech-2E2E2E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zimplify.tech/hydra)
 
+### Links
+
+[HydraAI](https://zimplify.tech/hydra) · [Custom Migrator](https://zimplify.tech/custom-migrator) · [GSoC 2025 project](https://summerofcode.withgoogle.com/archive/2025/projects/P7UQlBwc) · [RADIS PR #842](https://github.com/radis/radis/pull/842) · [GSoC final report](https://medium.com/@darshvn/gsoc25-openastronomy-final-report-b76e4f0ea2e3) · [Frappe Assistant Core OCR PR](https://github.com/buildswithpaul/Frappe_Assistant_Core/pull/175)
+
 </div>
