@@ -1,12 +1,15 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██████╗ ███████╗██╗  ██╗██╗   ██╗███╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██║   ██║████╗  ██║
-██║  ██║███████║██████╔╝███████╗███████║██║   ██║██╔██╗ ██║
-██║  ██║██╔══██║██╔══██╗╚════██║██╔══██║╚██╗ ██╔╝██║╚██╗██║
-██████╔╝██║  ██║██║  ██║███████║██║  ██║ ╚████╔╝ ██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═══╝
+```text
+  __                          __                         
+ /\ \                        /\ \                        
+ \_\ \     __     _ __   ____\ \ \___   __  __    ___    
+ /'_` \  /'__`\  /\`'__\/',__\\ \  _ `\/\ \/\ \ /' _ `\  
+/\ \L\ \/\ \L\.\_\ \ \//\__, `\\ \ \ \ \ \ \_/ |/\ \/\ \ 
+\ \___,_\ \__/.\_\\ \_\\/\____/ \ \_\ \_\ \___/ \ \_\ \_\
+ \/__,_ /\/__/\/_/ \/_/ \/___/   \/_/\/_/\/__/   \/_/\/_/
+                                                         
+                                                         
 ```
 
 **I build LLM agents, and the environments that prove whether they work.**
@@ -28,7 +31,7 @@
     the loop I spend my days on: build the agent, then build the thing that grades it.
 ```
 
-**Now** · agents inside ERPNext at [zimplify.tech](https://zimplify.tech/hydra)
+**Now** · agents inside ERPNext at [zimplify.tech](https://zimplify.tech/hydra)<br/>
 **Before** · RL environments for coding agents · physics in [RADIS](https://github.com/radis/radis)
 
 <div align="center">
