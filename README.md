@@ -25,6 +25,5 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanpatil15105@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshvn)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@darshvn)
-[![zimplify.tech](https://img.shields.io/badge/zimplify.tech-2E2E2E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zimplify.tech/hydra)
 
 </div>
